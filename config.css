@@ -35,14 +35,17 @@ img{
     justify-content: center;
     width: 85%;
     margin: auto;
-    background-color: pink;
+    background-color: rgb(255, 139, 30);
    
 
 }
 .item{
-   flex: 1 1 200px;
-
+   flex: 1 1 300px;
+   max-width: 1000px ;
+   margin: 8px;
+   padding: 8px;
 }
 span, img{
+    max-width: 100%;
     display: block;
 }
