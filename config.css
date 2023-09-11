@@ -41,7 +41,7 @@ img{
     width: 85%;
     margin: auto;
     background-color: rgb(255, 255, 255);
-  
+  }
 .item{  flex: 0 1 300px;
    max-width: 1000px ;
    margin: 8px;
