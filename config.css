@@ -49,3 +49,10 @@ span, img{
     max-width: 100%;
     display: block;
 }
+#anao{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+}
+p{
+    font-size: 20px;
+}
